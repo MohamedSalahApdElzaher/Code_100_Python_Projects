@@ -1,4 +1,4 @@
-# _100-Days-Of_Python-Challenges_
+# _100 Days Of Python Challenges_
 
 _In this repo, I tried to code a one hundred project on my own style including websites, games, apps, plus scraping and data science to add python to my knowledge stack :)_
 
