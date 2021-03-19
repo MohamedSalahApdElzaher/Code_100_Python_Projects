@@ -26,3 +26,4 @@ while is_on:
 # good bay message
 print("Thanks For Using Coffee Machine :)")
 
+ 
